@@ -34,4 +34,6 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
     testImplementation 'junit:junit:4.12'
     testImplementation 'org.robolectric:robolectric:4.7.3'
+    androidTestImplementation 'org.testng:testng:6.9.6'
+
 }
